@@ -109,8 +109,8 @@ A modern, feature-rich Todo application built with React + TypeScript + Node.js.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/devc313/todo-app.git
-cd todo-app
+git clone https://github.com/devc313/Modern-Todo-App-React-TypeScript-Node.js.git
+cd Modern-Todo-App-React-TypeScript-Node.js
 ```
 
 2. **Install dependencies**
@@ -169,7 +169,7 @@ docker-compose -f docker/docker-compose.prod.yml up -d
 ## 📁 Project Structure
 
 ```
-todo-app/
+Modern-Todo-App-React-TypeScript-Node.js/
 ├── frontend/          # React application
 │   ├── src/
 │   │   ├── components/    # React components
@@ -215,7 +215,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## 👨‍💻 Developer
 
-**ecvd** - [GitHub](https://github.com/devc313)
+**ecvd** - [GitHub Profile](https://github.com/devc313) · [Repository](https://github.com/devc313/Modern-Todo-App-React-TypeScript-Node.js)
 
 ## 🙏 Acknowledgments
 
